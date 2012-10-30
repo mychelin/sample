@@ -1,4 +1,4 @@
 before-script: "rvm list"
 language: ruby
 rvm:
-  - 1.9.3-p286
+  - 1.9.3
