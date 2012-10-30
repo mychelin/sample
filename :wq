@@ -1,4 +1,0 @@
-before_script: "rvm list"
-language: ruby
-rvm:
-  - 1.9.3
