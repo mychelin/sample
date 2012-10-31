@@ -7,5 +7,6 @@ class Person < ActiveRecord::Base
 
   def github_hook_test
     "First Trial!!"
+    "Second Trial!!"
   end
 end
