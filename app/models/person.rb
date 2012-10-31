@@ -4,4 +4,8 @@ class Person < ActiveRecord::Base
   def test
     "This is test."
   end
+
+  def github_hook_test
+    "First Trial!!"
+  end
 end
